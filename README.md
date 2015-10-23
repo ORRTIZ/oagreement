@@ -1,2 +1,2 @@
-# oagreement
-Agreement Management component for OFBiz
+# ocontract
+Contract Management component for OFBiz
