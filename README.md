@@ -1,2 +1,2 @@
 # ocontract
-Contract Management component for OFBiz
+Contract management component for ORRTIZ™ (Apache OFBiz™ based).
