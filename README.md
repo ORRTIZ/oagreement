@@ -6,7 +6,7 @@
 Contract management component for Apache OFBiz™ and ORRTIZ™.
 
 ## More information
-This is part of the disentanglement effort of the ORRTIZ team to get to as concise components possible. This is an optional component.
+This is part of the disentanglement effort of the ORRTIZ team to get to components as concise possible. This is an optional component.
 
 
 ## License
