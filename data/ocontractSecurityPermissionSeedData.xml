@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entity-engine-xml>
+    <SecurityPermission description="View operations in the ocontract Component." permissionId="ocontract_VIEW"/>
+    <SecurityPermission description="Create operations in the ocontract Component." permissionId="ocontract_CREATE"/>
+    <SecurityPermission description="Update operations in the ocontract Component." permissionId="ocontract_UPDATE"/>
+    <SecurityPermission description="Delete operations in the ocontract Component." permissionId="ocontract_DELETE"/>
+    <SecurityPermission description="ALL operations in the ocontract Component." permissionId="ocontract_ADMIN"/>
+
+    <SecurityGroupPermission groupId="SUPER" permissionId="ocontract_ADMIN"/>
+
+</entity-engine-xml>
